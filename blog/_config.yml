@@ -8,12 +8,12 @@ subtitle: "Luke wen's blog"
 description: 'Everyone has its own timezone.'
 keywords: blog 博客
 author: Luke Wen
-language: zh
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://lukewen.github.io/project
+url: https://lukewen.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
